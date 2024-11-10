@@ -1,8 +1,8 @@
 {
   "name": "UIComponentWithNavigation",
   "version": "0.1.0",
-  "summary": "A short description of UIComponentWithNavigation.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "UIComponentWithNavigation provide all UI and navigation.",
+  "description": "TODO: This pod is provide all UI related View and Navigation controle to Benefi Project.",
   "homepage": "https://github.com/punitbenefi/UIComponentWithNavigation",
   "license": {
     "type": "MIT",
@@ -12,11 +12,13 @@
     "punitbenefi": "punit@benefi.org"
   },
   "source": {
-    "git": "https://github.com/punitbenefi/UIComponentWithNavigation.git",
+    "git": "https://github.com/Benefi-Spark-Global/UIComponentWithNavigation.git",
     "tag": "0.1.0"
   },
+  "swift_versions": "5.0",
   "platforms": {
-    "ios": "10.0"
+    "ios": "15.0"
   },
-  "source_files": "UIComponentWithNavigation/Classes/**/*"
+  "source_files": "UIComponentWithNavigation/Classes/**/*",
+  "swift_version": "5.0"
 }
