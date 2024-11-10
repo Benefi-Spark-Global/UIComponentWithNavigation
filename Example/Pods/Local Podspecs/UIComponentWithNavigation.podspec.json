@@ -1,0 +1,22 @@
+{
+  "name": "UIComponentWithNavigation",
+  "version": "0.1.0",
+  "summary": "A short description of UIComponentWithNavigation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/punitbenefi/UIComponentWithNavigation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "punitbenefi": "punit@benefi.org"
+  },
+  "source": {
+    "git": "https://github.com/punitbenefi/UIComponentWithNavigation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "UIComponentWithNavigation/Classes/**/*"
+}

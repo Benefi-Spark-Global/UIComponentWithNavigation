@@ -1,0 +1,6 @@
+framework module UIComponentWithNavigation {
+  umbrella header "UIComponentWithNavigation-umbrella.h"
+
+  export *
+  module * { export * }
+}

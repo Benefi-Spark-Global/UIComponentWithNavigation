@@ -1,0 +1,6 @@
+framework module Pods_UIComponentWithNavigation_Tests {
+  umbrella header "Pods-UIComponentWithNavigation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - UIComponentWithNavigation (0.1.0)
+
+DEPENDENCIES:
+  - UIComponentWithNavigation (from `../`)
+
+EXTERNAL SOURCES:
+  UIComponentWithNavigation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIComponentWithNavigation: 517a126217b7141b9f1a1f34a51534b45dc23f04
+
+PODFILE CHECKSUM: 285be621155c0e9115cadefb143b5659313dd115
+
+COCOAPODS: 1.15.2
